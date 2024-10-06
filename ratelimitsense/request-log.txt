@@ -1,0 +1,54 @@
+2024-10-05T21:19:03.704Z - Response status: 200 | Duration: 636 ms
+2024-10-05T21:19:04.378Z - Response status: 200 | Duration: 298 ms
+2024-10-05T21:19:05.365Z - Response status: 200 | Duration: 272 ms
+2024-10-05T21:19:06.374Z - Response status: 200 | Duration: 270 ms
+2024-10-05T21:19:07.397Z - Response status: 200 | Duration: 292 ms
+2024-10-05T21:19:09.493Z - Response status: 200 | Duration: 1378 ms
+2024-10-05T21:19:09.517Z - Response status: 200 | Duration: 387 ms
+2024-10-05T21:19:10.425Z - Response status: 200 | Duration: 295 ms
+2024-10-05T21:19:11.431Z - Response status: 200 | Duration: 287 ms
+2024-10-05T21:19:12.420Z - Response status: 200 | Duration: 268 ms
+2024-10-05T21:19:13.465Z - Response status: 200 | Duration: 300 ms
+2024-10-05T21:19:15.201Z - Response status: 200 | Duration: 1025 ms
+2024-10-05T21:19:15.574Z - Response status: 200 | Duration: 391 ms
+2024-10-05T21:19:16.459Z - Response status: 200 | Duration: 275 ms
+2024-10-05T21:19:17.430Z - Response status: 200 | Duration: 235 ms
+2024-10-05T21:19:18.433Z - Response status: 200 | Duration: 228 ms
+2024-10-05T21:19:19.721Z - Response status: 200 | Duration: 504 ms
+2024-10-05T21:19:21.519Z - Response status: 200 | Duration: 1290 ms
+2024-10-05T21:19:21.586Z - Response status: 200 | Duration: 345 ms
+2024-10-05T21:19:22.545Z - Response status: 200 | Duration: 294 ms
+2024-10-05T21:19:23.267Z - 
+Performance Report:
+---------------------
+Total Requests Sent: 20
+Errors Encountered: 0
+Total Time Taken: 21207 ms
+
+2024-10-05T21:20:02.182Z - Response status: 200 | Duration: 422 ms
+2024-10-05T21:20:03.076Z - Response status: 200 | Duration: 305 ms
+2024-10-05T21:20:04.084Z - Response status: 200 | Duration: 298 ms
+2024-10-05T21:20:05.091Z - Response status: 200 | Duration: 297 ms
+2024-10-05T21:20:06.071Z - Response status: 200 | Duration: 264 ms
+2024-10-05T21:20:07.844Z - Response status: 200 | Duration: 1026 ms
+2024-10-05T21:20:08.176Z - Response status: 200 | Duration: 352 ms
+2024-10-05T21:20:09.086Z - Response status: 200 | Duration: 260 ms
+2024-10-05T21:20:10.138Z - Response status: 200 | Duration: 300 ms
+2024-10-05T21:20:11.068Z - Response status: 200 | Duration: 220 ms
+2024-10-05T21:20:12.117Z - Response status: 200 | Duration: 256 ms
+2024-10-05T21:20:13.807Z - Response status: 200 | Duration: 937 ms
+2024-10-05T21:20:14.171Z - Response status: 200 | Duration: 290 ms
+2024-10-05T21:20:15.161Z - Response status: 200 | Duration: 269 ms
+2024-10-05T21:20:16.185Z - Response status: 200 | Duration: 280 ms
+2024-10-05T21:20:17.190Z - Response status: 200 | Duration: 274 ms
+2024-10-05T21:20:18.898Z - Response status: 200 | Duration: 970 ms
+2024-10-05T21:20:19.247Z - Response status: 200 | Duration: 309 ms
+2024-10-05T21:20:20.210Z - Response status: 200 | Duration: 261 ms
+2024-10-05T21:20:21.238Z - Response status: 200 | Duration: 276 ms
+2024-10-05T21:20:21.979Z - 
+Performance Report:
+---------------------
+Total Requests Sent: 20
+Errors Encountered: 0
+Total Time Taken: 21233 ms
+
